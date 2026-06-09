@@ -1,4 +1,4 @@
-# HiCV | 嗨简历
+# HiCV | HI简历
 
 [![Website](https://img.shields.io/badge/官网-hicv.cn-2f6fd6)](https://hicv.cn)
 [![Resume Templates](https://img.shields.io/badge/简历模板-resume--templates-4c7bd1)](https://github.com/HICV-CN/resume-templates)
