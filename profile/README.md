@@ -15,6 +15,17 @@
 | [resume-templates](https://github.com/HICV-CN/resume-templates) | 嗨简历模板库：应届生、实习、社招、留学、英文、岗位专项模板 | 需要快速选择简历版式并在线编辑的求职者 | [浏览模板](https://hicv.cn/templates) |
 | [resume-guide](https://github.com/HICV-CN/resume-guide) | 简历写作建议：ATS 优化、经历表达、岗位匹配、投递前检查 | 第一次写简历、换岗、校招、社招用户 | [阅读攻略](https://hicv.cn/blog) |
 
+## 小H智能体
+
+[小H智能体](https://hicv.cn/agent) 是嗨简历的 AI 求职助手，用来把“写简历、改简历、匹配岗位、准备投递”串成一个连续流程。用户可以围绕目标岗位和已有经历与小H对话，让它协助梳理素材、生成简历初稿、优化经历表达、检查岗位关键词，并继续衔接校招信息、求职攻略和面经复盘。
+
+小H更适合这些场景：
+
+- 第一次写简历，不知道经历该怎么组织。
+- 已经有简历，但需要按目标岗位改版本。
+- 想对照 JD 检查关键词、能力证据和风险项。
+- 校招、实习、社招投递前，需要把简历修改和面试准备接起来。
+
 ## 为什么整理到 GitHub
 
 - 让简历模板和写作建议有一个公开、稳定、便于收藏的资源入口。
@@ -25,6 +36,7 @@
 ## 在 hicv.cn 继续完成简历
 
 - [免费简历模板](https://hicv.cn/templates) - 在线浏览、筛选、套用模板。
+- [小H智能体](https://hicv.cn/agent) - 对话式生成、优化和检查简历。
 - [求职攻略](https://hicv.cn/blog) - 学习简历写作、AI 优化、面试与投递方法。
 - [简历范文](https://hicv.cn/fanwen) - 参考不同岗位和经历类型的表达方式。
 - [校招信息](https://hicv.cn/xiaozhao) - 跟进校招节点、岗位和投递机会。
@@ -43,4 +55,3 @@
 - 模板库：[https://hicv.cn/templates](https://hicv.cn/templates)
 - 求职攻略：[https://hicv.cn/blog](https://hicv.cn/blog)
 - GitHub：[https://github.com/HICV-CN](https://github.com/HICV-CN)
-
